@@ -1,4 +1,1 @@
-mkdir build
-cd build
-cmake ..
-make
+old code from highschool
